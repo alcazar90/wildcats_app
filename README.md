@@ -2,8 +2,6 @@
   &nbsp;#Chilean wildcats App :smile_cat: + :cl:&nbsp;
 </h1>
 
-<div align="center">
-
 App: https://dashboard.heroku.com/apps/chilean-wildcats
 
 A `resnet18` pretrained model (on Imagenet) fine-tuned by 100 images for each 
@@ -16,5 +14,4 @@ notebooks widgets with `voila` and deployed with `heroku`.
 :white_check_mark: The main goal of this project is to sketch a quick end-to-end deep learning
 project.
 :exclamation: The model is not really useful...
-
 
